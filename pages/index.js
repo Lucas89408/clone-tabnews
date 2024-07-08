@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Oii, Scheila como ta ai a sua tarde de trabalho, com a nova colaboradora da empresa a sua amiga de longa data?</h1>
+  return <h1>Oii pessoa linda, passando rapidinho para te lembrar que, independente de qualquer coisa, Eu Te Amo.</h1>
 }
 
 export default Home;
